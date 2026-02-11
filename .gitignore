@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Training artifacts
+checkpoints/
+runs/
+
+# Local data
+data/
+
+# Env/IDE
+.venv/
+env/
+.env
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
